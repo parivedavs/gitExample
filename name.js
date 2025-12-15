@@ -1,4 +1,5 @@
 <>
-    <h2>Vamshi Krishna</h2>
-    <h2>MCA</h2>
+    <h2>Vamshi Krishna P</h2>
+    <h4>Hyderabad</h4>
+    <h4>India</h4>
 </>
